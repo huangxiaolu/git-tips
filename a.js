@@ -1,4 +1,5 @@
 export default {
   name: "hxl",
-  addr: "Beijing"
+  addr: "Beijing",
+  feature: "bbb"
 }
